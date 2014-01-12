@@ -1,0 +1,5 @@
+#################################################################################
+# Breweries in Tōhoku region (northern Honshū)
+#
+# - population: 9,335,088, largest city: Sendai
+
