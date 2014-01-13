@@ -1,18 +1,107 @@
 
+#################################
+# Major Brews
+
 ________________________________
 - Asahi Breweries, Tokyo
 
-Asahi Super Dry, 5%, lager
+Asahi|Asahi Super Dry, 5%, lager
+Asahi Black, 5%,  stout
 
 
-________________________________
-- Sapporo Brewery, Tokyo
+______________________________________________
+- Sapporo Brewery|Sapporo Breweries, Tokyo
 
-Sapporo Draft|Sapporo Premium, lager
+Sapporo Draft|Sapporo Premium, 4.7%, lager
 
 
 ________________________________
 - Kirin Brewery, Tokyo
 
 Kirin Ichiban, 5%, lager
+
+
+
+############################
+# Micro Brews
+
+_____________________________________
+- Baird Brewing
+
+Angry Boy Brown Ale, 6.2%,  ale
+Rising Sun Pale Ale, 5%,  ale
+
+________________________
+- Bayern Meister Bier
+
+Prinz, 5.5%,  pilsener
+
+__________________________________
+- Harvestmoon
+
+Harvestmoon Schwarz, 4.5%,  schwarzbier
+
+________________________________________
+- Kiuchi
+
+Hitachino Nest Beer White Ale, 5.5%,  witbier
+Hitachino Nest Beer XH, 8.3%
+
+___________________________________
+- Sankt Gallen
+
+Sankt Gallen Yokohama XPA,     6%
+
+_____________________________________
+- Echigo
+
+Echigo 90 Days Stout, 7%,  stout
+Echigo Pilsner, 5%,  pils
+
+_______________________________________
+- Fujizakura Heights Beer
+
+Fujizakura Heights Rauch, 5.5%,  rauchbier
+Fujizakura Heights Weizen, 5.5%,  witbier
+
+_____________________________________
+- Hakusekikan Beer
+
+Super Vintage,    14.3%
+
+_________________________________
+- Iwata Kura Beer
+
+Iwate Kura Oyster Stout, 7%,  stout
+
+__________________________________________
+- Kinshachi Beer
+
+Kinshachi Nagoya Red Miso Lager, 6%,  lager
+
+____________________________________
+- Minoh Beer
+
+Minch Double IPA, ipa, 9%
+
+___________________________________
+- Ozeno Yukidoke Beer
+
+Ozeno Yukidoke IPA, ipa, 5%
+
+____________________________________
+- Shiga Kogen Beer
+
+Shiga Kogen IPA, ipa, 6%
+
+____________________________________
+- Shonan Beer
+
+Shonan Liebe, 5%,  schwarzbier
+
+____________________________________
+- Yoho Brewing
+
+Tokyo Black, 5%,  porter
+Yona Yona Ale, 5.5%,  ale
 
