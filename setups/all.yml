@@ -1,0 +1,14 @@
+
+breweries:
+- jp-japan!/1--hokkaido
+- jp-japan!/2--tohoku--northern-honshu
+- jp-japan!/3--kanto--eastern-honshu
+- jp-japan!/4--chubu--central-honshu
+- jp-japan!/5--kansai--west-central-honshu
+- jp-japan!/6--chugoku--western-honshu
+- jp-japan!/7--shikoku
+- jp-japan!/8--kyushu
+- jp-japan!/breweries
+
+beers:
+- jp-japan!/beers

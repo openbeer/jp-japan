@@ -1,6 +1,6 @@
-# Beers n Breweries in Japan (jp)
+# Beers, Breweries n Brewpubs in Japan (jp)
 
-Free open public domain beer n brewery data for Japan
+Free open public domain beer, brewery n brewpub data for Japan. Example:
 
 ~~~
 ________________________________
